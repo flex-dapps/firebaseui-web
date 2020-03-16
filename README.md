@@ -1,0 +1,1 @@
+[Firebase UI](https://github.com/firebase/firebaseui-web) direct port as of Mar 15 2020 (hi covid-19 :wave:) to remove error in when importing '* from' and using rollup.
